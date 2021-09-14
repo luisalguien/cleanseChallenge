@@ -1,0 +1,21 @@
+{
+    "nickname": "spiderman",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "friends":[{
+        "nickname":"hulk",
+        "lastName":"Banner",
+        "age":0
+        },
+        {
+        "nickname":"iron man",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "age": false,
+        "friends": [
+        {
+            "nickname": "war machine",
+            "friends": []
+        }]
+}]
+}
